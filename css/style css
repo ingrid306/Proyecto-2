@@ -1,0 +1,9 @@
+/*ETIQUETAS*/
+div {background-color: Rojo ;}
+input {background-color:khaki;}
+ol {list-style-type: square;}
+p {color: blue;
+font-size: x-large;
+font-family: 'Poppins',sans-serif;}
+h1 {font-family: 'Carlito', sans-serif;}
+div {font-family:'Bruno Ace', cursive;}
